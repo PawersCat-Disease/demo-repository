@@ -19,7 +19,7 @@ Cat health is one of the main concerns for pet lovers. However, not all cat owne
 
 # Repositories
 
-#### Android Repository : https://github.com/PawersCat-Disease/capstone-android.git
+#### Android Repository : https://github.com/myfarism/capstone-android
 
 Maintained by:
 
@@ -27,7 +27,7 @@ Maintained by:
 - A294B4KY2828 - Muhammad Faris Hafizh
 
 
-#### Machine Learning Repository : 
+#### Machine Learning Repository : https://github.com/fardian123/Pawers-Machine-Learning
 
 Maintained by:
 
@@ -35,7 +35,7 @@ Maintained by:
 - M254B4KY3032 - Muhammad Reza Al Fatah
 - M254B4KY4405 - Vemas Adi Pratama
 
-#### Cloud Computing Repository : https://github.com/PawersCat-Disease/CC-Pawers
+#### Cloud Computing Repository : https://github.com/rekhanaya/CC-Pawers
 
 Maintained by:
 
