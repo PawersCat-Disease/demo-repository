@@ -35,7 +35,7 @@ Maintained by:
 - M254B4KY3032 - Muhammad Reza Al Fatah
 - M254B4KY4405 - Vemas Adi Pratama
 
-#### Cloud Computing Repository : 
+#### Cloud Computing Repository : https://github.com/PawersCat-Disease/CC-Pawers
 
 Maintained by:
 
