@@ -1,6 +1,9 @@
 # C242-PS037 | Pawers Cat Disease
 
+## Welcome Pawers Bagkit Academy 2024 Batch 2 Product Repository
+
 ![White and Blue Professional Modern Technology Pitch Deck Presentation](https://github.com/user-attachments/assets/adb16277-d09a-47ad-9ece-0b08bbe824ea)
+
 
 This project aims to create an information management system that focuses on the prevention, diagnosis, and treatment of cat diseases. The system aims to help cat owners, veterinarians, and the animal-loving community monitor cat health more effectively.
 
